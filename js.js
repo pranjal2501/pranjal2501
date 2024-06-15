@@ -15,6 +15,8 @@ git push origin main
 
 THIS IS HOW YOU CAN PUSH YOUR ANY PROJECT CREATED IN VS CODE TO YOUR GITHUB ACCOUNT
 
+INTEAD OF WRITING ENTIRE GIT PUSH ORIGIN MAIN, WE CAN ONCE WRITE GIT PUSH -U ORIGIN MAIN AND NEXT TIME WHEN WE WANT TO PUSH JUST WRITE "GIT PUSH"
+
 When we do commits they get stored in default branch called main.
 If we wish to build a feature on another branch and then connect it with main branch , we can do so. This is mainly used in collabs
 To check current branch

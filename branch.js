@@ -5,5 +5,5 @@
 
 3. git branch - d <branchName> = Delete branch
 
-
+IN THIS WAY YOU CAN ADD BRANCH
 */

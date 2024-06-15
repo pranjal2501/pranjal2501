@@ -1,4 +1,6 @@
 /*
+THIS DOC TELLS ABOUT HOW TO PUSH A REPO CREATED IN OUR LOCAL MACHIN
+
 In order to make new folder tracked by git, use init command
 git init
 Once the files are committed which are made in our system and if we wish to add them in our github by creating new repo then git push origin main won't work, hence:
